@@ -1,6 +1,8 @@
 # microcontrollers
 Arduino and Raspberry Pi
 
+-- UNDER CONSTRUCTION --
+
 If you want to set up and use your Arduino R4 WIFI with Arduino Cloud, this Youtubbe video does an excellent job of walking you through the whole process:
 
   <ul>
@@ -8,7 +10,7 @@ If you want to set up and use your Arduino R4 WIFI with Arduino Cloud, this Yout
   https://www.youtube.com/watch?v=qQGM5oBKAZc
   </ul>
 
-Code an notes for the following projects are in their respective directories.
+Code and notes for the following projects are in their respective directories.
 
 Project 1: Temperature and humidity
 
