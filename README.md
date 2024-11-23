@@ -3,7 +3,7 @@ Arduino and Raspberry Pi
 
 -- UNDER CONSTRUCTION --
 
-If you want to set up and use your Arduino R4 WIFI with Arduino Cloud, this Youtubbe video does an excellent job of walking you through the whole process:
+If you want to set up and use your Arduino R4 WIFI with Arduino Cloud, this Youtube video does an excellent job of walking you through the whole process:
 
   <ul>
   Arduino IoT Cloud Fundamentals | 2024 Step-by-Step Guide<br>
