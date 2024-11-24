@@ -22,7 +22,7 @@ This projects uses a Raspberry Pi 400 and a temperature/humidity/air pressure se
 
 Project 3: Display tempurature and humidity on LCD panel
 
-This project was purposely made more complex into order to learn API communications with another device (in this case the Raspberry PI 400).
+This project was purposely made more complex in order to learn API communications with another device (in this case the Raspberry PI 400).
 
 
 
