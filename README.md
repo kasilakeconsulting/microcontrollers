@@ -1,8 +1,6 @@
 # microcontrollers
 <h2>Arduino and Raspberry Pi</h2>
 
--- UNDER CONSTRUCTION --
-
 If you want to set up and use your Arduino R4 WIFI with Arduino Cloud, this Youtube video does an excellent job of walking you through the whole process:
 
   <ul>
@@ -22,7 +20,7 @@ This projects uses a Raspberry Pi 400 and a temperature/humidity/air pressure se
 
 <h3>&gt; Project 3: Display tempurature and humidity on LCD panel</h3>
 
-This project was purposely made more complex in order to learn API communications with another device (in this case the Raspberry PI 400).
+This project was purposely made more complex in order to learn API communications with another device (in this case the Raspberry PI 400). The Raspberry Pi also sends its data to the Arduino Cloud.
 
 
 
