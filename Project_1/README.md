@@ -1,4 +1,4 @@
-This project used an Arduino R4 WIFI board and a DHT11 Temperature and Humidity module.
+This project uses an Arduino R4 WIFI board and a DHT11 Temperature and Humidity module.
 
 ![image](https://github.com/user-attachments/assets/7a6a5117-9180-428c-b480-d178ef4f2814)
 
