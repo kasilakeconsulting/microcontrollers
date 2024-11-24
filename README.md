@@ -1,5 +1,5 @@
 # microcontrollers
-Arduino and Raspberry Pi
+<h2>Arduino and Raspberry Pi</h2>
 
 -- UNDER CONSTRUCTION --
 
@@ -12,15 +12,15 @@ If you want to set up and use your Arduino R4 WIFI with Arduino Cloud, this Yout
 
 Code and notes for the following projects are in their respective directories.
 
-Project 1: Temperature and humidity
+<h3>&gt; Project 1: Temperature and humidity</h3>
 
 This project uses an Arduino R4 WIFI board and a temp/humidity sensor to send data to the Arduino Cloud.
 
-Project 2: Air pressure
+<h3>&gt; Project 2: Air pressure</h3>
 
 This projects uses a Raspberry Pi 400 and a temperature/humidity/air pressure sensor. We are only interested in the pressure data here. It is saved to the Arduino Cloud.
 
-Project 3: Display tempurature and humidity on LCD panel
+<h3>&gt; Project 3: Display tempurature and humidity on LCD panel</h3>
 
 This project was purposely made more complex in order to learn API communications with another device (in this case the Raspberry PI 400).
 
